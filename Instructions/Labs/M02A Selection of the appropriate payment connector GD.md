@@ -1,8 +1,9 @@
-Module 2: Configure Commerce Headquarters
-=========================================
+---
+lab:
+    title: 'A. Group Discussion: Selection of the appropriate payment connector'
+    module: 'Module 2: Configure Commerce Headquarters'
+---
 
-A. Group Discussion: Selection of the appropriate payment connector
--------------------------------------------------------------------
 
 **Why learn this**? Payment connectors enable an application to process payments
 for transactions where the card is not present and transactions where the card
