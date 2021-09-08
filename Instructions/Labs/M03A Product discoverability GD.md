@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'A. Group discussion: Product discoverability'
-    module: 'Module 04: Products and Merchandising'
+    module: 'Module 03: Products and Merchandising'
 ---
 
 
