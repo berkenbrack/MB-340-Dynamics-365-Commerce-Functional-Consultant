@@ -1,9 +1,8 @@
----
-lab:
-    title: 'Group Discussion: Selection of the appropriate payment connector'
-    module: 'Module 2: Configure Commerce Headquarters'
----
+Module 2: Configure Commerce Headquarters
+=========================================
 
+A. Group Discussion: Selection of the appropriate payment connector
+-------------------------------------------------------------------
 
 **Why learn this**? Payment connectors enable an application to process payments
 for transactions where the card is not present and transactions where the card
@@ -35,11 +34,9 @@ secure payment transactions.
 **Objectives**: Students will learn the importance of selecting the right
 payment connector in D365 Commerce.
 
-Exercise 1: Select the appropriate payment connector for Contoso, Ltd.
-----------------------------------------------------------------------
+### Exercise 1: Select the appropriate payment connector for Contoso, Ltd.
 
-Scenario
---------
+#### Scenario
 
 Contoso, Ltd. Is an e-commerce company based in California that facilitates
 consumer-to-consumer and business-to-consumer sales by using an e-commerce
@@ -51,7 +48,7 @@ The company’s main challenge is to manage payments for global sales and
 facilitate their customers with a payment gateway that includes a comprehensive
 list of supported features and functionality.
 
-### Discussion questions
+#### Discussion questions
 
 Which out of box payment connector should the company use for their operations?
 
@@ -65,8 +62,7 @@ Why did you choose that particular connector?
 
 Why did you not choose another connector?
 
-Exercise 2: Select the appropriate payment connector for Adventure works Inc.
------------------------------------------------------------------------------
+### Exercise 2: Select the appropriate payment connector for Adventure works Inc.
 
 Adventure works Inc. is a fashion retailer in the United States of America. The
 company operates one hundred stores across including small, large, and flagship
@@ -78,7 +74,7 @@ Adventure works offer online payment options in their physical and online
 stores. The company accepts cash, card present, and card not present
 transactions.
 
-### Discussion questions
+#### Discussion questions
 
 Which out of box payment connector should the company use for their operations?
 
