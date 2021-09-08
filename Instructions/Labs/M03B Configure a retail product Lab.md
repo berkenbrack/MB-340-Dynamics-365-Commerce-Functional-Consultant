@@ -49,7 +49,7 @@ product. Student will learn key components such as:
 **Objectives**: Students will learn creation of a new product focusing on the
 Commerce and Retail side.
 
-### Exercise : 
+### Exercises: 
 
 Scenario – A company decides to expand its product line to include camping and
 hiking equipment. In this lab you will create a new product for a backpack. You
