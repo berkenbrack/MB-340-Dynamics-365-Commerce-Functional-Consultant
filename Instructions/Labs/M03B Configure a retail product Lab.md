@@ -165,7 +165,7 @@ product.
 
     ![](media/9c283a8d798d50ccef63f4270e3ca49a.png)
 
-### Exercise 2 – Add a new product
+### Exercise 2 – Add a new product with variants
 
 In this exercise you will add the new product with size variants using the size
 group you created in Exercise 1.
