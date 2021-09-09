@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'B. Group discussion: Dynamics 365 Commerce Hardware'
-    module: 'Module 1: Get started with Dynamics 365 Commerce'
+    module: 'Module 1: Get Started with Dynamics 365 Commerce'
 ---
 
 
