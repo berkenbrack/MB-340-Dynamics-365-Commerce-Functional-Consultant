@@ -1,8 +1,11 @@
-Module 6: Point of Sale
-=======================
+---
+lab:
+    title: 'B. Hands-on lab: Pick up order creation and processing'
+    module: 'Module 6: Point of Sale'
+---
 
-B. Hands-on lab: Pick up order creation and processing
-------------------------------------------------------
+
+
 
 **Why learn this?** Omni-channel order processing is now central to the retail
 industry. Customers expect to be able to buy anywhere and receive or pick-up
