@@ -123,13 +123,11 @@ orders have been assigned to the expected locations:
 2.  Navigate to Retail and Commerce \> Distributed order management \> Setup \>
     Manage rules or search for **Manage rules** by using the search function.
 
-	#![(media/f8ab03c0b753f02db42bd1030928bf10.png)
 
 3.  Select **New**.
 
 4.  In the DOM rules field, select **Partial orders rule**.
 
-	#![(media/35b8916bcea0ca2bbc0eb7d8574c9a97.png)
 
 5.  Select **Create**.
 
@@ -141,7 +139,6 @@ orders have been assigned to the expected locations:
 
 9.  In the Fulfill partial orders? field, clear the check mark.
 
-	#![(media/e6b59f25e9baee79efa92338228d9feb.png)
 
 10. Select **Save**.
 
@@ -156,7 +153,6 @@ orders have been assigned to the expected locations:
 
 4.  In the DOM rules field, select **Maximum orders rule**.
 
-	#![(media/fd07f11b02df2ff60f854fb20de7186b.png)
 
 5.  Select **Create**.
 
@@ -172,7 +168,6 @@ orders have been assigned to the expected locations:
 
 11. In the Maximum orders field, enter **1**.
 
-	#![(media/f46963b734927d61f9f79a666a6bb454.png)
 
 12. Select **Save**.
 
@@ -187,7 +182,6 @@ orders have been assigned to the expected locations:
 
 4.  In the DOM rules field, select **Minimum inventory rule**.
 
-	#![(media/4e739ea8fe5f67d499b82bc38f7b67d6.png)
 
 5.  Select **Create**.
 
@@ -203,7 +197,6 @@ orders have been assigned to the expected locations:
 
 11. In the Minimum inventory field, enter **2**.
 
-	#![(media/91ab6df48e7df9ded6ae51a0a033d3b6.png)
 
 12. Select **Save**.
 
@@ -217,7 +210,6 @@ orders have been assigned to the expected locations:
     Fulfilment profiles or search for **Fulfillment profiles** by using the
     search function.
 
-	#![(media/3689283bb07bb4c7db87e5daf329bad0.png)
 
 3.  Select **New**.
 
@@ -256,7 +248,6 @@ orders have been assigned to the expected locations:
       
     
 
-	#![(media/59959a131d3feed21f7a6fe9bfe289db.png)
 
 #### Task 3 – Complete the fulfillment profile
 
@@ -272,7 +263,6 @@ orders have been assigned to the expected locations:
 
 5.  Select **Save**.
 
-	#![(media/afa612dcaa9f92b2084713e577419352.png)
 
 6.  Close the Modes of delivery form.
 
@@ -283,8 +273,6 @@ orders have been assigned to the expected locations:
     Note: All fields (excluding the Enable profile checkbox) are disabled once
     the record is saved.
 
-	#![(media/3bf6388df08842fc814e92e4e8d72f0c.png)
-
 ### Exercise 3 – Prepare stock data for use in tests
 
 #### Task 1 – Identify rows
@@ -294,7 +282,6 @@ orders have been assigned to the expected locations:
 2.  Navigate to Inventory management \> Journal entries \> Item counting \>
     Counting or search for **Counting** by using the search function.
 
-	#![(media/060858332e4c2893f6ec425da69a5a03.png)
 
 3.  Select **New**.
 
@@ -302,8 +289,6 @@ orders have been assigned to the expected locations:
 
 5.  On the action pane, select **Create Lines** and then select **On-hand** from
     the context menu.
-
-	#![(media/aa662a2eb2e351f0f99ed21981d7782c.png)
 
 6.  Select the **Warehouse** check box.
 
@@ -321,7 +306,6 @@ orders have been assigned to the expected locations:
 
 13. In the Criteria field, enter: **SANFRANCIS,SANJOSEADV,DC-CENTRAL**.
 
-	#![(media/0fb1ec218d097e149673b9a50ee1b481.png)
 
 14. Select **OK**.
 
@@ -356,7 +340,6 @@ orders have been assigned to the expected locations:
 
 13. Select line 12. In the Counted field, enter **5**.
 
-	#![(media/84af00e5f60158205b75df252a1a63cc.png)
 
 14. On the action pane, select **Post**.
 
@@ -375,7 +358,6 @@ orders have been assigned to the expected locations:
       
     
 
-	#![(media/8ca2a86dcbbb2a38a3bab705e8dd1d60.png)
 
 4.  On the action pane, select **Channel users**.
 
@@ -391,15 +373,12 @@ orders have been assigned to the expected locations:
 
 9.  In the Customer account field, select **004009** from the list.
 
-	#![(media/68a20430f4f95fda11d9f5ac270cbef2.png)
 
 10. Expand the **Delivery** fast tab. Note: You may need to scroll down the
     page.
 
 11. In the Mode of delivery field, select **Standard** – Standard Service
     (retailer choice) from the list.
-
-	#![(media/af2891eafad8266ee55ce258aa151feb.png)
 
 12. Select **OK**.
 
@@ -413,7 +392,6 @@ orders have been assigned to the expected locations:
 
 17. On the action pane, select **Complete**.
 
-	#![(media/8d03a9dd7e53aa24605d924545de9aa7.png)
 
 #### Task 2 – Add payments
 
@@ -423,7 +401,6 @@ orders have been assigned to the expected locations:
 
 3.  In the Payment amount field, enter **246.68**.
 
-	#![(media/15b901f8cee84c20eb6959296990724f.png)
 
 4.  Select **OK.**
 
@@ -563,7 +540,6 @@ orders have been assigned to the expected locations:
 
 4.  In the batch group field, **remove** the value **DOMBatch**.
 
-	#![(media/a05e2127e0345ca8ddd1bfaa763778cb.png)
 
 5.  Select **OK** and it will execute the server operation.
 
@@ -578,7 +554,6 @@ orders have been assigned to the expected locations:
       
     
 
-	#![(media/ca302fc40caca47fd5442a5f2febb941.png)
 
 3.  Review each line in the Order details grid and ensure the Warehouse field on
     the Order Fulfillment Details grid matches the expected result for the
