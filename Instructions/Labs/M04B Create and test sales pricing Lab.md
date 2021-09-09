@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'B. Lab: Create and test sales pricing'
+    title: 'B. Hands-on lab: Create and test sales pricing'
     module: 'Module 4: Retail Pricing'
 ---
 
