@@ -59,7 +59,7 @@ for different stores.
 The diagram below demonstrates the different topologies available and where they
 are best suited:
 
-![A picture containing graphical user interface Description automatically generated](media/f0797b4a5d5d1f3c09f9a41b36c4a7db.jpg)
+![](https://docs.microsoft.com/en-us/dynamics365/retail/dev-itpro/media/channel/instore/topology.jpg)
 
 For the original image, see
 <https://docs.microsoft.com/en-us/dynamics365/retail/dev-itpro/media/channel/instore/topology.jpg>
