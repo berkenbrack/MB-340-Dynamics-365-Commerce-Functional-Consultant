@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'A. Group Discussion: Selection of the appropriate payment connector'
+    title: 'A. Group discussion: Selection of the appropriate payment connector'
     module: 'Module 2: Configure Commerce Headquarters'
 ---
 

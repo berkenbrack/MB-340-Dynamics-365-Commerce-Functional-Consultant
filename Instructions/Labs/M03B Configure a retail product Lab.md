@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'B. Hands-on lab: Configure a retail product'
-    module: 'Module 3: Products and merchandising'
+    module: 'Module 3: Products and Merchandising'
 ---
 
 
-**Why learn this**? This is basic and mandatory setup to enable loyalty
+**Why learn this?** This is basic and mandatory setup to enable loyalty
 programs. Student should learn this as a lab and get familiarize on steps for
 setting up a loyalty program.
 
