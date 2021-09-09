@@ -70,13 +70,13 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/0dde3a787ce475cdbbaf17f98ddc867e.png)
+    #![](media/0dde3a787ce475cdbbaf17f98ddc867e.png)
 
 3.  Navigate to Retail and Commerce \> Customers \> Loyalty \> Date interval.  
       
     
 
-    ![](media/33fbfa686a74d42e629ae189dc27f149.png)
+    #![](media/33fbfa686a74d42e629ae189dc27f149.png)
 
 4.  Select **New**.
 
@@ -96,14 +96,14 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/6ec27e7ba4d3322c24c2168844b665a8.png)
+    #![](media/6ec27e7ba4d3322c24c2168844b665a8.png)
 
 #### Task 2 – Configure rewards points
 
 1.  Navigate to **Retail and Commerce \> Customers \> Loyalty \> Loyalty rewards
     points**.
 
-![](media/ea4e63ff92c820429200a549be79c6af.png)
+	#![](media/ea4e63ff92c820429200a549be79c6af.png)
 
 1.  Select **New**.
 
@@ -130,14 +130,14 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/fb099b48c06e2b6bdbc6cb1d8f822fee.png)
+    #![](media/fb099b48c06e2b6bdbc6cb1d8f822fee.png)
 
 #### Task 3 – Configure loyalty programs
 
 1.  Navigate to **Retail and Commerce \> Customers \> Loyalty \> Loyalty
     programs**.
 
-![](media/b3979904d2f857e656dc23ed4e1a2f43.png)
+	#![](media/b3979904d2f857e656dc23ed4e1a2f43.png)
 
 1.  Select **New**.
 
@@ -149,13 +149,13 @@ will also set up mandatory components of the loyalty.
 
 5.  Select **Add line**.
 
-![](media/49841b1a81a6bc5fc22f13c8a7f7b39e.png)
+	#![](media/49841b1a81a6bc5fc22f13c8a7f7b39e.png)
 
 1.  Select **Yes** on the pop-up reminder to continue to add a line.  
       
     
 
-    ![Graphical user interface, text, application Description automatically generated](media/cffb6d0632d2836f8a4277f2731f7a1f.png)
+    #![](media/cffb6d0632d2836f8a4277f2731f7a1f.png)
 
 2.  In the Level field, enter **1**.
 
@@ -181,7 +181,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/af79f91ab2371893ad1739d3842ceeb4.png)
+    #![](media/af79f91ab2371893ad1739d3842ceeb4.png)
 
 13. In the Price group field, select **LP-Fab**.
 
@@ -189,7 +189,7 @@ will also set up mandatory components of the loyalty.
 
 15. Close the page.
 
-![](media/d8dffcacfa4a03e84ade3649fea797c2.png)
+	#![](media/d8dffcacfa4a03e84ade3649fea797c2.png)
 
 1.  Select **Save**.
 
@@ -200,7 +200,7 @@ will also set up mandatory components of the loyalty.
 1.  Navigate to **Retail and Commerce \> Customers \> Loyalty \> Loyalty
     schemes**.
 
-![](media/9b3b6e0dbd111c0de3521411893664f0.png)
+	#![](media/9b3b6e0dbd111c0de3521411893664f0.png)
 
 1.  Select **New**.
 
@@ -218,7 +218,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/0bb02754d535874d4aaceae4ac6f30f3.png)
+    #![](media/0bb02754d535874d4aaceae4ac6f30f3.png)
 
 #### Task 2 – Configure earning rules
 
@@ -246,7 +246,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/396874a43a1e8b2f8b07d067b5788c12.png)
+    #![](media/396874a43a1e8b2f8b07d067b5788c12.png)
 
 #### Task 3 – Configure Redemption rules and channels
 
@@ -272,7 +272,7 @@ will also set up mandatory components of the loyalty.
 
 11. Select **Save**.
 
-![](media/df0839494efac6744b8ab5c3b4ae3ee8.png)
+	#![](media/df0839494efac6744b8ab5c3b4ae3ee8.png)
 
 1.  Expand the Retail channels section.
 
@@ -288,7 +288,7 @@ will also set up mandatory components of the loyalty.
 
 6.  Select **Save**.
 
-![](media/56115834097360caf731fcf143e597fe.png)
+	#![](media/56115834097360caf731fcf143e597fe.png)
 
 ### Exercise 3 – Set up loyalty cards
 
@@ -299,13 +299,13 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/cc3e0d2df29d3975ecfaeeb81b2a333b.png)
+    #![](media/cc3e0d2df29d3975ecfaeeb81b2a333b.png)
 
 2.  Select **New**.  
       
     
 
-    ![](media/53ac57a386f3dea4152c96e6e297d4c1.png)
+    #![](media/53ac57a386f3dea4152c96e6e297d4c1.png)
 
 3.  In the Customer name field, select customer **Contoso Retail FR – 4001**.
 
@@ -325,7 +325,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/e1a1c60ebab27a66b3b77c34a45a53c2.png)
+    #![](media/e1a1c60ebab27a66b3b77c34a45a53c2.png)
 
 ### Exercise 4 – Test loyalty schemes
 
@@ -337,7 +337,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/8e67a427841a077ba8367ed5378658ad.png)
+    #![](media/8e67a427841a077ba8367ed5378658ad.png)
 
 3.  Navigate to **Retail and Commerce \> Channel setup \> POS setup \>
     Devices**.
@@ -346,7 +346,7 @@ will also set up mandatory components of the loyalty.
 
 5.  Select **Cloud POS URL**.
 
-    ![](media/9572b815b6387d4d954a0c054b650b49.png)
+    #![](media/9572b815b6387d4d954a0c054b650b49.png)
 
 6.  Select **Next**.
 
@@ -354,7 +354,7 @@ will also set up mandatory components of the loyalty.
 
 1.  Select **Activate**.
 
-    ![](media/66c6482333d32c262f4f026b0d55ac48.png)
+    #![](media/66c6482333d32c262f4f026b0d55ac48.png)
 
 2.  Enter your email ID.
 
@@ -364,52 +364,52 @@ will also set up mandatory components of the loyalty.
 
 5.  Select **Sign in**.
 
-![](media/b060f9684dcd649da2f0e674f36c5617.jpg)
+	#![](media/b060f9684dcd649da2f0e674f36c5617.jpg)
 
 1.  Select **Open a new shift**.
 
-![](media/de2f73ed4f5c736c78341315970a2a48.png)
+	#![](media/de2f73ed4f5c736c78341315970a2a48.png)
 
 #### Task 2 – Create a loyalty transaction
 
 1.  Select **Current transaction**.
 
-    ![](media/7c10635dc21bde60ee282cb4e46fb850.png)
+    #![](media/7c10635dc21bde60ee282cb4e46fb850.png)
 
 2.  Select **Add product**.
 
-    ![](media/6ae6b09038416f417e6d3439f2f14f68.png)
+    #![](media/6ae6b09038416f417e6d3439f2f14f68.png)
 
 3.  Select the Jewelry category and add products.
 
-![](media/0b4019207d937f2ef22bb989a96de6d1.png)
+	#![](media/0b4019207d937f2ef22bb989a96de6d1.png)
 
 1.  Select **Add item** to increase the quantity to two.
 
 >   Note: Select more products or increase the quantity of same product to meet
 >   the loyalty scheme minimum purchase \$1,000 threshold.
 
-![](media/c5416fe3984372e4a56d67572eecd6a6.png)
+	#![](media/c5416fe3984372e4a56d67572eecd6a6.png)
 
 1.  Select **Loyalty card**.
 
-![](media/0bcc2581f8247a18bb179546e76db711.png)
+	#![](media/0bcc2581f8247a18bb179546e76db711.png)
 
 1.  Scan or enter loyalty card number.
 
 2.  Select **Enter**.
 
-![](media/a2be39bf422ff4c16ba7e8b38eb4d7a3.png)
+	#![](media/a2be39bf422ff4c16ba7e8b38eb4d7a3.png)
 
 >   Loyalty discount is applied to the transaction as shown below.
 
-![](media/bae93eef3806bffe21b3eb0b44f49954.png)
+	#![](media/bae93eef3806bffe21b3eb0b44f49954.png)
 
 1.  Select **Pay cash**.
 
 2.  Select enter.
 
-![](media/e06134533220f2a7c8d7d55627b01ab1.png)
+	#![](media/e06134533220f2a7c8d7d55627b01ab1.png)
 
 1.  Select **close**.
 
@@ -421,7 +421,7 @@ will also set up mandatory components of the loyalty.
       
     
 
-    ![](media/1c29b096dbbd67f37dc425e41f7cf683.png)
+    #![](media/1c29b096dbbd67f37dc425e41f7cf683.png)
 
 3.  Navigate to **Retail and Commerce \> Customers \> Loyalty \> Loyalty
     cards**.
@@ -429,11 +429,11 @@ will also set up mandatory components of the loyalty.
 4.  Select the card number used in the transaction from the list. The card
     summary page opens.
 
-![](media/15d96382d1db549081d5826751e223af.png)
+	#![](media/15d96382d1db549081d5826751e223af.png)
 
 1.  Select the **Card transactions** menu option.
 
-![](media/69fa2da4737e4966fa3c454d835bd44a.png)
+	#![](media/69fa2da4737e4966fa3c454d835bd44a.png)
 
 1.  Verify transactions.
 

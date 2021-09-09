@@ -64,7 +64,7 @@ equipment.
 
 2.  Verify the legal entity is set to **USRT.** 
 
-![](media/640955f897c31e162aaec7fbadb242ba.png)
+	#![](media/640955f897c31e162aaec7fbadb242ba.png)
 
 #### Task 2 – Create a new global category for the product line
 
@@ -75,7 +75,7 @@ equipment.
       
     
 
-    ![](media/54e75fc6dab7c4dea8b3a00393fa8002.png)
+    #![](media/54e75fc6dab7c4dea8b3a00393fa8002.png)
 
 3.  Select **ALL** in the list of nodes.
 
@@ -93,7 +93,7 @@ equipment.
       
     
 
-    ![](media/0d6c19d72a1c73dfbda58402ae5f845c.png)
+    #![](media/0d6c19d72a1c73dfbda58402ae5f845c.png)
 
 #### Task 3 – Create a new category for backpacks
 
@@ -112,7 +112,7 @@ equipment.
       
     
 
-    ![](media/635cf42773f845c85fb6ddd79510c28e.png)
+    #![](media/635cf42773f845c85fb6ddd79510c28e.png)
 
 #### Task 4 – Create a new size group for backpacks
 
@@ -163,7 +163,7 @@ product.
       
     
 
-    ![](media/9c283a8d798d50ccef63f4270e3ca49a.png)
+    #![](media/9c283a8d798d50ccef63f4270e3ca49a.png)
 
 ### Exercise 2 – Add a new product with variants
 
@@ -184,7 +184,7 @@ group you created in Exercise 1.
 
 2.  Select **New**.
 
-    ![](media/74a1bbe60574dd6b838a226e0245820b.png)
+    #![](media/74a1bbe60574dd6b838a226e0245820b.png)
 
 3.  In the Product type field, select **Item**.
 
@@ -207,7 +207,7 @@ group you created in Exercise 1.
 
 11. Select **OK**.
 
-![](media/2d59cca6fd1469001cc006113662c740.png)
+	#![](media/2d59cca6fd1469001cc006113662c740.png)
 
 1.  Expand the General section.
 
@@ -229,15 +229,15 @@ group you created in Exercise 1.
       
     
 
-    ![](media/d2f0be4e48e1ebecb85bff420ab23853.png)
+    #![](media/d2f0be4e48e1ebecb85bff420ab23853.png)
 
 #### Task 4 – Define the variants that the product will support
 
 1.  From the Action Pane, navigate to Product variants \> Variant suggestions.
 
-![](media/286a356f69b4efe31738c39e94aee967.png)
+	#![](media/286a356f69b4efe31738c39e94aee967.png)
 
-![](media/7ee6e09eb5d1ac0eea6230a891364648.png)
+	#![](media/7ee6e09eb5d1ac0eea6230a891364648.png)
 
 1.  Select **Select all**.
 
@@ -245,7 +245,7 @@ group you created in Exercise 1.
 
 3.  Select **Save**.
 
-![](media/4c7ed3cf2ba59606f13064542e5c1256.png)
+	#![](media/4c7ed3cf2ba59606f13064542e5c1256.png)
 
 ### Exercise 3 - Release products and add inventory
 
@@ -270,27 +270,27 @@ exercise you will release the product that you created in earlier exercises.
       
     
 
-    ![](media/29e24ef60c9018855747fba72d5dccc0.png)
+    #![](media/29e24ef60c9018855747fba72d5dccc0.png)
 
 3.  Select **Next**.  
       
     
 
-    ![](media/fb305f2b44b5775adcd42d4097357948.png)
+    #![](media/fb305f2b44b5775adcd42d4097357948.png)
 
 4.  Select **Next**.
 
-    ![](media/a9fed9b11df3454266d7bc19c1521ded.png)
+    #![](media/a9fed9b11df3454266d7bc19c1521ded.png)
 
 5.  In the Company list, select **USRT**.
 
 6.  Select **Next**.
 
-    ![](media/f00cd99e70e3d5aaac01bb0e84115ad1.png)
+    #![](media/f00cd99e70e3d5aaac01bb0e84115ad1.png)
 
 7.  Select **Finish**. The system will take a moment to process the release.
 
-    ![](media/f9389eb5d96af5e445c8dac5fc4e809f.png)
+    #![](media/f9389eb5d96af5e445c8dac5fc4e809f.png)
 
 #### Task 3 – Configure properties for a released product
 
@@ -304,7 +304,7 @@ information.
 2.  Select **75001** to enter the detail screen. Note: This is the number that
     you entered in Exercise 2, Task 2, Step 5.
 
-![](media/e7fb3f0e5b38d9b9ce17f3b67120f82e.png)
+	#![](media/e7fb3f0e5b38d9b9ce17f3b67120f82e.png)
 
 1.  Select **Edit** to enter edit mode.
 
@@ -320,7 +320,7 @@ information.
 
 7.  In the Price quantity field, enter **1.00**.
 
-    ![](media/20df26b5993c73b0cff8c9e8fa5fc5e6.png)
+    #![](media/20df26b5993c73b0cff8c9e8fa5fc5e6.png)
 
 8.  Expand the sell section.
 
@@ -331,13 +331,13 @@ information.
 
 11. In the Price quantity field, enter **1.00**.
 
-    ![](media/7462316e9e2c77d1c94655ed8071f2d2.png)
+    #![](media/7462316e9e2c77d1c94655ed8071f2d2.png)
 
 12. Expand the Manage Inventory section.
 
 13. In the Unit field, enter **ea**.
 
-    ![](media/aeb74bf46cf9a766389fb30b4a839f78.png)
+    #![](media/aeb74bf46cf9a766389fb30b4a839f78.png)
 
 14. Expand the Manage Costs section.
 
@@ -349,13 +349,13 @@ information.
 
 17. Select **Save**.
 
-    ![](media/4d2e8eb763930bd325162b8ed60d16ee.png)
+    #![](media/4d2e8eb763930bd325162b8ed60d16ee.png)
 
 #### Task 4 – Add product inventory
 
 1.  From the Action Pane, navigate to Manage Inventory \> On-hand inventory.
 
-    ![](media/b62c8a43ead45b33e5109c517fa5d2e0.png)
+    #![](media/b62c8a43ead45b33e5109c517fa5d2e0.png)
 
 2.  From the Action Pane, select **Quantity Adjustment** to create inventory.
 
@@ -367,7 +367,7 @@ information.
 
 3.  Select **OK**.
 
-    ![](media/05ace22c23b66387c14608a2ba7a8025.png)
+    #![](media/05ace22c23b66387c14608a2ba7a8025.png)
 
 4.  Select **New**.
 
@@ -388,7 +388,7 @@ information.
 12. Select **OK** and allow the counting journal to process. The quantities
     on-hand will display.
 
-    ![](media/8518bd3ecfcb6873801e6b072bb9e4c3.png)
+    #![](media/8518bd3ecfcb6873801e6b072bb9e4c3.png)
 
 ### Exercise 4 – Create new attributes
 
@@ -450,7 +450,7 @@ exercise, you will create two attributes for the backpack product.
 
 10. Select **Save**.
 
-    ![](media/304671ea8b6b7d5080c0257b54c2a96d.png)
+    #![](media/304671ea8b6b7d5080c0257b54c2a96d.png)
 
 #### Task 3 – Create Attributes
 
@@ -472,7 +472,7 @@ created in Task 2.
 
 7.  From the Action Pane, select **Filter settings**.
 
-    ![](media/0b8dcb128ca3a4c8f968abbbd11e6dda.png)
+    #![](media/0b8dcb128ca3a4c8f968abbbd11e6dda.png)
 
 8.  In the Display option field, select **Multi value** to allow users to select
     multiple values in the client app to refine product lists.
@@ -480,7 +480,7 @@ created in Task 2.
 9.  Select **Save** then close the page by selecting the **X** at the top right
     of the page (underneath the logon initials).
 
-    ![](media/2a83e37dca85cc9a5362396bf960bfe4.png)
+    #![](media/2a83e37dca85cc9a5362396bf960bfe4.png)
 
 10. In the General section, in the Default value field, select **Backpacking**.
 
@@ -488,7 +488,7 @@ created in Task 2.
 
 12. Select **Save**.
 
-![](media/35c4226573ebe8ef8898a6e9d1b9e805.png)
+	#![](media/35c4226573ebe8ef8898a6e9d1b9e805.png)
 
 1.  Select **New** to create another attribute**.**
 
@@ -502,13 +502,13 @@ created in Task 2.
 
 6.  From the Action Pane, select **Filter settings**.
 
-    ![](media/78c33d66083d301ab9c8abf64e9571f3.png)
+    #![](media/78c33d66083d301ab9c8abf64e9571f3.png)
 
 7.  In the Display option field, select **Multi value**.
 
 8.  Select **Save** and then close the page.
 
-    ![](media/fb18d6e37e31cec44de5b8674f4525ad.png)
+    #![](media/fb18d6e37e31cec44de5b8674f4525ad.png)
 
 9.  In the General section, select the Default value field and then select
     **Internal**.
@@ -517,7 +517,7 @@ created in Task 2.
 
 11. Select **Save**.
 
-![](media/a7b52f2ab35339340c1ee75fba46a7c9.png)
+	#![](media/a7b52f2ab35339340c1ee75fba46a7c9.png)
 
 #### Task 4 – Create new attribute group
 
@@ -539,7 +539,7 @@ multiple attributes to a single product and a hierarchy node.
 
 7.  Select **Add**.
 
-    ![](media/c323e78e60c7ce6e200adbd032361803.png)
+    #![](media/c323e78e60c7ce6e200adbd032361803.png)
 
 8.  In the AVAILABLE list, select **Backpack Usage and Frame Type**.
 
@@ -547,7 +547,7 @@ multiple attributes to a single product and a hierarchy node.
 
 10. Select **OK** and the window will close.
 
-![](media/e0bc4e48d830a3a1b3826d9f9cf52036.png)
+	#![](media/e0bc4e48d830a3a1b3826d9f9cf52036.png)
 
 #### Task 5 – Add attributes to commerce product hierarchy
 
@@ -563,7 +563,7 @@ allows inheritance of attributes by products in the hierarchy.
 
 4.  Select **Add**.
 
-    ![](media/9c08be81e53f42b694231148ff4ab67a.png)
+    #![](media/9c08be81e53f42b694231148ff4ab67a.png)
 
 5.  In the AVAILABLE list, select **Backpacks**.
 
@@ -571,7 +571,7 @@ allows inheritance of attributes by products in the hierarchy.
 
 7.  Select **OK**. The window will close.
 
-    ![](media/2f53d1a269dbc32c45dbae21e94493e3.png)
+    #![](media/2f53d1a269dbc32c45dbae21e94493e3.png)
 
 You have completed the process of configuring a new retail product. You can
 follow the exercises and tasks in this lab to create additional products.

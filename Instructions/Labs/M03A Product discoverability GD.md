@@ -37,7 +37,7 @@ helps retailer to assisting their customer during their shopping journey.
 **Objectives**: Students will learn the importance of the product
 discoverability feature available in D365 Commerce.
 
-### Exercise 
+### Exercises 
 
 For this activity, you will work individually or in small groups. First, you
 will be given information on different search criteria that can be used in

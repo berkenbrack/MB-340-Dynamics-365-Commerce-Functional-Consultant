@@ -48,7 +48,7 @@ components for the channel.
       
     
 
-    ![](media/f489d264086df5671f3013b4eeb9e58d.png)
+    #![](media/f489d264086df5671f3013b4eeb9e58d.png)
 
 2.  Select **Initialize**.
 
@@ -79,7 +79,7 @@ components for the channel.
 
 -   Batch job to purge Commerce Data Exchange session history
 
-    ![](media/f6c3f5fd6f99fd627a1b6352d0fe52ee.png)
+    #![](media/f6c3f5fd6f99fd627a1b6352d0fe52ee.png)
 
 #### Task 3 – Initialize Commerce scheduler
 
@@ -87,11 +87,11 @@ components for the channel.
     Commerce scheduler \> Initialize commerce scheduler**. Alternatively, search
     for **Initialize commerce scheduler** in the search box on the toolbar.
 
-![](media/fd4c83fb6c7c12320d868410fd5431ef.png)
+	#![](media/fd4c83fb6c7c12320d868410fd5431ef.png)
 
-1.  In the Delete existing configuration, select **Yes.**
+2.  In the Delete existing configuration, select **Yes.**
 
-2.  Select **OK.**
+3.  Select **OK.**
 
 This process will recreate the scheduler configuration data and add a new data
 set to the environment.
@@ -124,12 +124,12 @@ before you continue with other Commerce setup steps.
       
     
 
-    ![](media/28c98d45bd7fd3894328e79b16de1fc6.png)
+    #![](media/28c98d45bd7fd3894328e79b16de1fc6.png)
 
 10. In the Workers form, select the Address books field and then select all
     address fields.
 
-![](media/eed8354a0a0ad0552a328c0fa5195a41.png)
+	#![](media/eed8354a0a0ad0552a328c0fa5195a41.png)
 
 11.  Select the Commerce tab.
 
@@ -147,7 +147,7 @@ before you continue with other Commerce setup steps.
 
 17.  Select **Save.**
 
-![](media/5592161a533185a6ed964411bb3648b9.png)
+	#![](media/5592161a533185a6ed964411bb3648b9.png)
 
 
 #### Task 2 – Associate the worker with a user
@@ -158,7 +158,7 @@ before you continue with other Commerce setup steps.
 
 3.  Select on the User ID for the student.
 
-![](media/b62a795410737e99041b7dc4cf10c291.png)
+	#![](media/b62a795410737e99041b7dc4cf10c291.png)
 
 4.  In the person field, select the worker that you created in Exercise 2, Task
     1 from the drop down and select **Select**.
@@ -167,7 +167,7 @@ before you continue with other Commerce setup steps.
       
     
 
-    ![](media/a25574d12e6c60de6d1cfba6f5f7c29b.png)
+    #![](media/a25574d12e6c60de6d1cfba6f5f7c29b.png)
 
 ### Exercise 3 – Create a retail warehouse 
 
@@ -197,7 +197,7 @@ before you configure a warehouse.
       
     
 
-    ![](media/6fb11494e2dd21060f880f6aaa473ed0.png)
+    #![](media/6fb11494e2dd21060f880f6aaa473ed0.png)
 
 #### Task 2 – Set up a warehouse
 
@@ -225,7 +225,7 @@ appropriate.
 
 8.  On the action pane, select **Save**.
 
-![](media/84dec54ea7d17bf7aa07835dbc3fac62.png)
+	#![](media/84dec54ea7d17bf7aa07835dbc3fac62.png)
 
 ### Exercise 4 – Create a customer address book
 
@@ -245,7 +245,7 @@ appropriate.
 
 7.  On the action pane, select **Save**.
 
-![](media/f62da41a83617958ac10e96792873394.png)
+	#![](media/f62da41a83617958ac10e96792873394.png)
 
 ### Exercise 5 – Create a default customer 
 
@@ -279,4 +279,4 @@ appropriate.
 
 13. Select **Save**.
 
-![](media/53f6bcc7044b597a3f4afaee25b6dfc4.png)
+	#![](media/53f6bcc7044b597a3f4afaee25b6dfc4.png)

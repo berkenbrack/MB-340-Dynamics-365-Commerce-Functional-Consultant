@@ -38,7 +38,7 @@ used to sign into Commerce is assigned to a call center channel.
 
 3.  Select a call center channel and then select **Channel users**.
 
-    ![](media/de1e70b9663b1a652d1c93beed3b6861.png)
+    #![](media/de1e70b9663b1a652d1c93beed3b6861.png)
 
 4.  In the newly opened form, select **New** to add a new user to the call
     center channel.
@@ -46,7 +46,7 @@ used to sign into Commerce is assigned to a call center channel.
 5.  In the User ID field, select the Admin user that you used to sign in to
     Commerce.
 
-![](media/ffeafa8316f0dbe68629c3e26b2a6494.png)
+	#![](media/ffeafa8316f0dbe68629c3e26b2a6494.png)
 
 1.  Verify that the Admin user is displayed. The Admin user is linked to this
     call center channel and can successfully create a Retail order in this
@@ -71,7 +71,7 @@ purchase by using a check.
 
 4.  Select **New sales order**.
 
-![](media/a70b214280de29ba63fed388d798e289.png)
+	#![](media/a70b214280de29ba63fed388d798e289.png)
 
 1.  Write down the sales order number that the system generated. You will need
     to reference this number at a later stage in this lab.
@@ -93,7 +93,7 @@ purchase by using a check.
       
     
 
-    ![](media/29a8144ebf1853ea443c891640f49ffa.png)
+    #![](media/29a8144ebf1853ea443c891640f49ffa.png)
 
 9.  Select **OK**.
 
@@ -103,7 +103,7 @@ purchase by using a check.
 
 12. Review the order summary for correctness and then select **Submit**.
 
-![](media/cc68c04c59a35756523203589c9a1bd4.png)
+	#![](media/cc68c04c59a35756523203589c9a1bd4.png)
 
 ### Exercise 3: Create an order hold code
 
@@ -129,7 +129,7 @@ placing orders on hold. You do not want held orders to reserve inventory.
 
 8.  Select **Save**.
 
-    ![](media/89e023495555a1d040377987b134964e.png)
+    #![](media/89e023495555a1d040377987b134964e.png)
 
 ### Exercise 4: Put an order on hold and release it from hold
 
@@ -160,7 +160,7 @@ hold because the internal checks have been successfully completed.
     process column, verify the presence of a check mark for the sales order. The
     order is on hold.
 
-![](media/c226520cea233e9db72dfebc9f5bd897.png)
+	#![](media/c226520cea233e9db72dfebc9f5bd897.png)
 
 #### Task 2 – Release the hold on an order
 
@@ -174,4 +174,4 @@ hold because the internal checks have been successfully completed.
     process column, verify that the check mark no longer displays. The hold on
     the order is released.
 
-![](media/f02257479d2c8efbc64e4780c63342c0.png)
+	#![](media/f02257479d2c8efbc64e4780c63342c0.png)

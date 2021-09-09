@@ -27,7 +27,8 @@ concept of retail price groups relates to applying the discounts.
 
 ### Exercise: 
 
-Watch the video (link TBD).
+Watch the video [https://aka.ms/MB340M4video](https://aka.ms/MB340M4video)
+
 
 ### Transcript:
 
@@ -63,12 +64,12 @@ We'll see that there has been no retail discount applied to it. However, there
 could be one potentially available to us. It's because we have not hit the unit
 quantity discount. By moving the quantity to two, we can see that the offer code
 now applies that retail discount. Now we will navigate over to a threshold
-discount. The threshold discount is a loyalty offering of 5% off over \$100, and
+discount. The threshold discount is a loyalty offering of 5% off over $100, and
 we can see that it applies to all lines. However, it only applies to the
 Fabrikam rewards loyalty program. Going back to the pricing simulator, we can
 see that we have a channel ID of Mission Viejo, and a price group of the
 Fabrikam rewards. However, we need to hit a certain dollar threshold amount of
-which we only had 79.99 by increasing the quantity that goes over the \$100
+which we only had 79.99 by increasing the quantity that goes over the $100
 threshold and thus applies 5% off of our order.
 
 We can now navigate to the mix and match discount here. We can see there's

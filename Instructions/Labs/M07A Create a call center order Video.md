@@ -25,9 +25,6 @@ Watch the video <https://aka.ms/MB340M7video>
 
 ### Transcript: 
 
-Speaker 1
-([00:00](https://www.temi.com/editor/t/3Z_pjHR9eHDcAjF_ABbK5Qt7BhwUQpro1GnXRETwpRnsZNhbQMVtv0lkP9ugJskgpIZYHTUzPddcaQPMyeHbvVW-eLM?loadFrom=SharedLink&ts=0.96)):
-
 In this video, I will demonstrate how to create a call center sales order. It's
 important to note that I am already logged in as a user who has previously been
 linked to a call center channel.
