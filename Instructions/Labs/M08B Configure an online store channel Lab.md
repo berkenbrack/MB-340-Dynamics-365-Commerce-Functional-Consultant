@@ -55,13 +55,11 @@ components for the channel.
       
     
 
-	#![](media/c029d18e945972dffb924d52794a950c.png)
 
 #### Task 2 – Create an online store channel in headquarters
 
 1.  Select **New**.
 
-	#![](media/69597a511e8c8f2291dbff3a6c5d4e38.png)
 
 2.  In the Name field, enter a name for the store (example: Adventure Works
     online store).
@@ -84,7 +82,6 @@ components for the channel.
 
 10. Select **Save**.
 
-	#![](media/27d78e59ed9c9cf3e89e47a47d317b27.png)
 
 ### Exercise 2 – Set up mandatory components of the online store channel 
 
@@ -104,13 +101,11 @@ account is required to accept payments on the e-commerce site.
 
 5.  Select **Add**.
 
-	#![](media/7b9576e047863257046ba694f0dccd8b.png)
 
 6.  Change Environment to **TEST**.
 
 7.  **key** .Leave all other values at default settings. Select **Save.**
 
-	#![](media/75facbc01540f86138fe1ce35e9698f7.png)
 
 #### Task 2 – Set up languages
 
@@ -123,7 +118,6 @@ support. For this lab, we will use en-us only.
       
     
 
-	#![](media/1b0e45aa3f60fa41867eca3ce241b498.png)
 
 #### Task 3 – Configure Fulfillment Group assignments
 
@@ -133,13 +127,10 @@ customers to make purchase online and pick up products in store.
 1.  From the Action pane, select **Set up** and then select **Fulfillment group
     assignment**.
 
-	#![](media/31a427c20e589dca64a105b5e451f066.png)
-
 2.  Add **All stores**.
 
 3.  Close the form.
 
-	#![](media/bba13399389b3bb67881046778e606eb.png)
 
 #### Task 4 – Set up payment methods – Loyalty card 
 
@@ -149,7 +140,6 @@ as a payment method.
 1.  From the **Action pane**, select **Set up** and then select **Payment
     Methods**.
 
-	#![](media/c5369d1146931e1dee0170a331dd9b12.png)
 
 2.  Select **New**.
 
@@ -181,7 +171,6 @@ as a payment method.
 
 15. Close the form.
 
-	#![](media/b3f78e50ebf7155a2eebe5b82515b50b.png)
 
 #### Task 5 – Set up payment methods – Credit card 
 
@@ -225,7 +214,6 @@ in this task for each type of credit card that you plan accept.
 
 15. Close the form.
 
-	#![](media/f4a8b0a80fe3d613d66528014ad9b8d9.png)
 
 #### Task 5 – Set up payment methods – Gift card 
 
@@ -265,7 +253,6 @@ a payment method.
 
 15. Close the form.
 
-	#![](media/401259c329e535fdc8ab6baa72e0eb80.png)
 
 ### Exercise 3 – Add a channel to a business unit
 
@@ -284,17 +271,14 @@ hierarchy business unit.
 
 5.  From the Action pane, select **View**.
 
-	#![](media/54ee2e2ce2967666ded8ad58bb0db980.png)
 
 6.  From the Action pane, select **Edit**.
 
 7.  Select **...** (ellipsis) on the Fashion tile.
 
-	#![](media/363f521cff163f2153e1e9bcd5a13a86.png)
 
 8.  Select Insert and then select **Retail Channel**.
 
-	#![](media/8b3811ed0f0ba7a1f790d51dd07e5ca9.png)
 
 9.  Select the channel that you created in Exercise 1, Task 2 and select **OK**.
 
@@ -306,7 +290,6 @@ hierarchy business unit.
     per day. This way, if you need to republish you will be able to choose a
     more recent date.
 
-	#![](media/2a98b0cfc07b95ac02c353c0b4f49af7.png)
 
 #### Task 2 – Associate an Assortment with an Online Store 
 
@@ -334,9 +317,6 @@ In this task, you will associate an assortment with an online store.
 
 10. Select Publish.
 
-	#![](media/242cfe95cef91756bb900922cb06974c.png)
-
-	#![](media/872160c0bc2dd8bcbe021c7aa03a25a9.png)
 
 Task 3 - Configure a Channel Hierarchy
 
@@ -358,7 +338,6 @@ In this task, you will create a channel hierarchy.
 
 7.  Select **Publish channel update.**
 
-	#![](media/40a3761aa610fa5f46b9d438fe75f684.png)
 
 #### Task 4 – Set up modes of delivery
 
@@ -417,8 +396,6 @@ In this task, we will configure modes of delivery for the online store channel.
       
     
 
-	#![](media/fc1d94c7761445542541e907f4bfa790.png)
-
 #### Task 5 – Configure the channel to be part of the appropriate channel database
 
 In this task, You will select the correct channel database for the channel.
@@ -433,14 +410,12 @@ In this task, You will select the correct channel database for the channel.
 
 4.  Select Save.
 
-	#![](media/f70acc64e1e0fb061256c223574acf8b.png)
 
 5.  Select **Yes** on the warning message that appears to continue mapping the
     new retail channel.  
       
     
 
-	#![](media/6afebfa149570e38a7e7e83b25e9cb73.png)
 
 ### Exercise 4 – Sync data
 
@@ -460,7 +435,6 @@ synchronize the changes that you made in earlier exercises.
 
 4.  Select **OK** to process the delivery modes.
 
-	#![](media/b68826cc9be4fff678113123bc44bc8a.png)
 
 5.  To check if the new delivery modes have been configured, search for **Online
     stores** in the search box on the toolbar and select the new store you
@@ -471,7 +445,6 @@ synchronize the changes that you made in earlier exercises.
 7.  Select **Modes of delivery** and verify that the list displays the mode of
     deliveries
 
-	#![](media/3c072d90730d2537be2020f5575d7fa8.png)
 
 #### Task 2 – Sync all jobs
 
@@ -483,7 +456,6 @@ synchronize the changes that you made in earlier exercises.
 
 4.  Enter **9999** and select **OK** to run all jobs.
 
-	#![](media/6457569e6b1596ca60eed3d6ed36d343.png)
 
 1.  Select **OK.**  
       
@@ -491,11 +463,9 @@ synchronize the changes that you made in earlier exercises.
       
     
 
-	#![](media/a1cad53f3788eb25bbb32e8f00b6b60a.png)
 
 2.  When the dialog closes, search for the term **download sessions** in the
     search box on the toolbar.
 
 3.  Refresh the page until the Status field displays Applied for all rows.
 
-	#![](media/ee9fb9ba52f33b23884e7bd1a8c8b292.png)
