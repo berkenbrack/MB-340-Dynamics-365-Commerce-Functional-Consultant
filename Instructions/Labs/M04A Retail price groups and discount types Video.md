@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'A. Video: Retail price groups and discount types'
-    module: 'Module 4: Retail pricing'
+    module: 'Module 4: Retail Pricing'
 ---
 
 Module 4: Retail pricing
