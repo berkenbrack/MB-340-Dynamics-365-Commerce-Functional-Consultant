@@ -78,7 +78,7 @@ of it.
 
 -   At which points in the sales order lifecycle can the company improve?
 
-### Exercise 2: What criteria that can the company use to flag orders as suspicious? At which points in the lifecyle of transactions can the company flag orders? 
+### Exercise 2: What criteria that can the company use to flag orders as suspicious? At which points in the lifecycle of transactions can the company flag orders? 
 
 -   At what point can fraud be evaluated?
 
