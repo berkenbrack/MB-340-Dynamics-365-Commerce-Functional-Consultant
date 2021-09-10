@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Module 10: Dynamics 365 Fraud Protection'
-    module: 'B. Group discussion: Commerce Fraud Protection features'
+    title: 'B. Group discussion: Commerce Fraud Protection features'
+    module: 'Module 10: Dynamics 365 Fraud Protection'
 ---
 
 
