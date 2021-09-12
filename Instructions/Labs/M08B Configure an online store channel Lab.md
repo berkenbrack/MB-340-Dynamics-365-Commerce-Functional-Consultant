@@ -104,7 +104,7 @@ account is required to accept payments on the e-commerce site.
 
 6.  Change Environment to **TEST**.
 
-7.  **key** .Leave all other values at default settings. Select **Save.**
+7.  Leave all other values at default settings. Select **Save.**
 
 
 #### Task 2 – Set up languages
