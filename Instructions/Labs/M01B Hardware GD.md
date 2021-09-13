@@ -42,3 +42,8 @@ If you have experience implementing these devices, share knowledge and
 experience of complications and pain points, such as device software versioning
 problems, issues using OPOS vs Windows drivers, Logo printing or security
 issues.
+
+Additional info:
+[https://docs.microsoft.com/en-us/dynamics365/commerce/retail-peripherals-overview\#microsoft-tested-peripheral-devices](https://docs.microsoft.com/en-us/dynamics365/commerce/retail-peripherals-overview)
+
+<https://docs.microsoft.com/dynamics365/commerce/retail-peripherals-overview-supported-interfaces>
