@@ -172,7 +172,7 @@ before you configure a warehouse.
 3.  Navigate to **Modules \> Warehouse management \> Setup \> Warehouse \>
     Site**.
 
-4.  On the action pane, select **New**.
+4.  If the site **CENTRAL** does not exist, create it: On the action pane, select **New**.
 
 5.  In the Site field, enter **CENTRAL**.
 
