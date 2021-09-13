@@ -221,7 +221,7 @@ appropriate.
 
 2.  Verify that the legal entity is set to **USRT**.
 
-3.  Navigate to Modules \> Organization administration \> Address books.
+3.  Navigate to Modules \> Organization administration \> Global address book \> Address books.
 
 4.  On the action pane, select **New**.
 
