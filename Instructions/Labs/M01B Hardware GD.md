@@ -11,7 +11,7 @@ Dynamics 365 Commerce consultants should be familiar with the different device
 types found in stores, which devices are supported, and how they can be
 configured.
 
-**Scenario**: In this group discussion, you will review the peripheral’s found
+**Scenario**: In this group discussion, you will review the peripherals found
 in retail stores, understand how to identify supported scenarios and devices,
 and the configuration requirements for Dynamics 365 Commerce.
 
