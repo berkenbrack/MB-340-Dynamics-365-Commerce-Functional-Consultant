@@ -56,7 +56,7 @@ three pieces.
 
 
 
-5.  Open the record and scroll down to the Sell group.
+5.  Open the record and scroll down to the Sell fasttab.
 
 6.  In the Base sales price section in the Sell fast tab, change the Price (Base
     price) field from **19.99** to **21.99**. If necessary, select Edit at the
