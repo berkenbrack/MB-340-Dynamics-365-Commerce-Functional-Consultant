@@ -176,6 +176,8 @@ This task continues from the last step in Task 1.
 
 6.  In the Customer account field, enter **2001 Karen Berg**.
 
+7. Navigate to the **Sales line** fasttab.
+
 7.  In the Item number field, enter item **0007**.
 
 8.  In the Unit quantity field, enter **2**.
