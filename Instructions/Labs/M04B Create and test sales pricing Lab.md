@@ -220,10 +220,16 @@ any product from the Dress Shirts category get two ties for free.
 
 
 
-8.  In the Category field on Lines FastTab, select **Dress Shirts**  
+8.  Navigate to the **Lines** fasttab and in the Category field, select **Dress Shirts**  
       
     
+10. For the same line, in the Discount method field, select **Discount
+    percentage.**
 
+11. For the same line, in the Discount value field, enter **100.**
+
+12. For the same line, in the Quantity limit field, enter **2.**  
+      
 
 
 9.  In the **Category** field on the **Threshold discount lines** FastTab,
