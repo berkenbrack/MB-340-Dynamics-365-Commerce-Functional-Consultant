@@ -146,25 +146,18 @@ the sales prices to ensure that the prices are calculated correctly.
 10. In the Item number field, enter item **0007**.
 
 11. In the Unit quantity field, enter **2**.  
-      
-    
-
-
 
 12. Expand the Transaction summary section and view the details.
 
 13. Expand the Pricing diagnostics section to view the detailed calculation for
     the transaction.  
       
-    
-
-
 
 #### Task 2 – Test prices using values that should produce discounts 
 
-This task continues from the last step in Task 1.
 
-1.  Select **New**.
+
+1.  Select **New** to create a second price simulation.
 
 2.  In the Name field, enter a free text name.
 
