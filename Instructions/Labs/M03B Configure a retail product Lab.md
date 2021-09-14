@@ -179,7 +179,7 @@ group you created in Exercise 1.
 #### Task 2 – Create a new product
 
 1.  Navigate to **Modules \> Retail and Commerce \> Products and categories \>
-    Products by category**. Alternatively, you can for **Products by category**
+    Products by category**. Alternatively, you can search for **Products by category**
     in the search box on the toolbar.
 
 2.  Select **New**.
