@@ -69,7 +69,7 @@ equipment.
 #### Task 2 – Create a new global category for the product line
 
 1.  Search for **Commerce product hierarchy** in the Search for a page box on
-    the toolbar. The system will open the appropriate form.
+    the toolbar. The system will open the appropriate form. (It can also be reached at Retail and Commerce \> Products and categories \> Commerce product hierarchy.)
 
 2.  Select the **Edit category hierarchy** link.  
       
@@ -264,7 +264,7 @@ exercise you will release the product that you created in earlier exercises.
     Products by category**. In the Products by category list, select
     **Ultralight Superpacker Men's Backpack**. Note: this is the product name
     you created in Exercise 2, Task 2. You can use the filter box to search for
-    it. Select the link to go into the detail page.
+    it in the Product name. Select the link to go into the detail page.
 
 2.  From the Action Pane, select **Release products.**  
       
@@ -310,7 +310,7 @@ information.
 
 2.  Expand the General Section.
 
-3.  In the Item model group field, select **Mov_AVG**.
+3.  In the Item model group field, select **MOV_AVG**.
 
 4.  Expand the Purchase section.
 
