@@ -54,7 +54,7 @@ three pieces.
 4.  In the list of released products, locate and select record 0007, Full Finger
     BMX Gloves.
 
-    ![](media/7bd05cafd42f1fe134548c841293a5b2.png)
+
 
 5.  Open the record and scroll down to the Sell group.
 
@@ -62,7 +62,6 @@ three pieces.
     price) field from **19.99** to **21.99**. If necessary, select Edit at the
     top to go into Edit mode.
 
-![](media/8787f25ad5d32cb4e8626e29d5609491.png)
 
 #### Task 2 – Create a customer-specific trade agreement 
 
@@ -77,8 +76,6 @@ three pieces.
 4.  Select **Save**.  
       
     
-
-    ![](media/0489cf43ff2f0a0d25134955de30be4f.png)
 
 5.  In the Action Pane, select **Lines**.
 
@@ -110,7 +107,7 @@ three pieces.
       
     
 
-    ![](media/5bb153d2f1ad21c9605066748b8477dc.png)
+
 
 3.  Select **OK**.
 
@@ -150,7 +147,7 @@ the sales prices to ensure that the prices are calculated correctly.
       
     
 
-    ![](media/0b02bfc2c500c014907a7a2f0eaec5bf.png)
+
 
 12. Expand the Transaction summary section and view the details.
 
@@ -159,7 +156,7 @@ the sales prices to ensure that the prices are calculated correctly.
       
     
 
-    ![](media/65442fd1e9fb890439545713674c2b27.png)
+
 
 #### Task 2 – Test prices using values that should produce discounts 
 
@@ -217,13 +214,13 @@ any product from the Dress Shirts category get two ties for free.
       
     
 
-    ![](media/4c4001ba1e86dd683f701f8ba2b24a99.png)
+
 
 8.  In the Category field on Lines FastTab, select **Dress Shirts**  
       
     
 
-    ![](media/681770905625256813953e3566e47179.png)
+
 
 9.  In the **Category** field on the **Threshold discount lines** FastTab,
     select **Ties** under Fashion \> Fashion Accessories**.**
@@ -237,7 +234,7 @@ any product from the Dress Shirts category get two ties for free.
       
     
 
-    ![](media/0c028c22b5d5e9a45508b5266e783a29.png)
+
 
 #### Task 2 – Configure price groups 
 
@@ -248,9 +245,7 @@ This task continues from the last step in Task 1.
 2.  In the new form that opens, in the **Price group** field, select
     **RP-Houston.**  
       
-    
 
-    ![](media/2df3d366170e156b21c4c159280daf04.png)
 
 3.  Select **Save** and close the form.
 
