@@ -208,10 +208,6 @@ any product from the Dress Shirts category get two ties for free.
 
 7.  In **Amount** field on the **Threshold discount tiers** FastTab, enter
     **300**.  
-      
-    
-
-
 
 8.  Navigate to the **Lines** fasttab and in the Category field, select **Dress Shirts** (this is in Fashion and Menswear) 
       
@@ -234,16 +230,10 @@ any product from the Dress Shirts category get two ties for free.
 11. For the same line, in the Discount value field, enter **100.**
 
 12. For the same line, in the Quantity limit field, enter **2.**  
-      
-    
-
-
 
 #### Task 2 – Configure price groups 
 
-This task continues from the last step in Task 1.
-
-1.  In the Action pane, select **Price groups.**
+1.  In the Action pane for that new discount, select **Price groups.**
 
 2.  In the new form that opens, in the **Price group** field, select
     **RP-Houston.**  
