@@ -137,7 +137,9 @@ the sales prices to ensure that the prices are calculated correctly.
 
 7.  Set the Enable Diagnostics field to **Yes**.
 
-8.  In the Item number field, enter item **0006**.
+8.  Navigate to the **Sales line** fasttab.
+
+10.  In the Item number field, enter item **0006**.
 
 9.  In the Sales line group, select **Add line**.
 
