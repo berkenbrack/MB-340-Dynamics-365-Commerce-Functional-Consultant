@@ -310,8 +310,6 @@ will also set up mandatory components of the loyalty.
       
     
 
-> 	STOP HERE: Exercise 4 has prerequisites that we haven't done yet
-
 >   STOP HERE: Exercise 4 has prerequisites that we haven't done yet.
 
 
