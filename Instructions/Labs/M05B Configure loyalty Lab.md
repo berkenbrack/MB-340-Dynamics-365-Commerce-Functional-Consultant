@@ -68,15 +68,8 @@ will also set up mandatory components of the loyalty.
 
 2.  Verify that the legal entity is set to **USRT**.  
       
-    
-
-
 
 3.  Navigate to Retail and Commerce \> Customers \> Loyalty \> Date interval.  
-      
-    
-
-
 
 4.  Select **New**.
 
@@ -107,7 +100,7 @@ will also set up mandatory components of the loyalty.
 
 2.  In the Reward point ID field, enter **Loyalty rewards**.
 
-3.  In the Description field, enter **Loyalty fashion rewards**.
+3.  In the Description field, enter **Loyalty fashion rewards lab**.
 
 4.  In the Reward point type field, select **Amount.**
 
@@ -316,6 +309,10 @@ will also set up mandatory components of the loyalty.
 10. Select **Save**.  
       
     
+
+> 	STOP HERE: Exercise 4 has prerequisites that we haven't done yet
+
+
 
 
 ### Exercise 4 – Test loyalty schemes
