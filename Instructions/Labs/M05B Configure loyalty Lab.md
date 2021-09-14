@@ -312,7 +312,7 @@ will also set up mandatory components of the loyalty.
 
 > 	STOP HERE: Exercise 4 has prerequisites that we haven't done yet
 
-
+>   STOP HERE: Exercise 4 has prerequisites that we haven't done yet.
 
 
 ### Exercise 4 – Test loyalty schemes
@@ -323,10 +323,6 @@ will also set up mandatory components of the loyalty.
 
 2.  Verify that the legal entity is set to **USRT**.  
       
-    
-
-
-
 3.  Navigate to **Retail and Commerce \> Channel setup \> POS setup \>
     Devices**.
 
@@ -334,14 +330,9 @@ will also set up mandatory components of the loyalty.
 
 5.  Select **Cloud POS URL**.
 
-
-
 6.  Select **Next**.
 
-
 1.  Select **Activate**.
-
-
 
 2.  Enter your email ID.
 
@@ -350,8 +341,6 @@ will also set up mandatory components of the loyalty.
 4.  Enter the Operator ID and password
 
 5.  Select **Sign in**.
-
-
 
 1.  Select **Open a new shift**.
 
