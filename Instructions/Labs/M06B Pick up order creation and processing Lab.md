@@ -5,7 +5,8 @@ lab:
 ---
 
 
-
+# Module 6: Point of Sale
+## B. Hands-on lab: Pick up order creation and processing
 
 **Why learn this?** Omni-channel order processing is now central to the retail
 industry. Customers expect to be able to buy anywhere and receive or pick-up
@@ -71,7 +72,7 @@ indicate the customer has collected their item.
 
 1.  Launch the Cloud POS application.
 
-2.  Sign into the POS device using operator ID **000713** and password **123**. (Beta testers: Is this correct?)
+2.  Sign into the POS device using operator ID **000713** and password **123**.
 
 
 3.  Select **Open a new shift** when prompted.
