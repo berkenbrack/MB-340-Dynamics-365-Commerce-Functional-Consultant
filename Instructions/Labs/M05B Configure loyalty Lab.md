@@ -140,11 +140,7 @@ will also set up mandatory components of the loyalty.
 
 5.  Select **Add line**.
 
-1.  Select **Yes** on the pop-up reminder to continue to add a line.  
-      
-    
-
-
+1.  Select **Yes** on the pop-up reminder "Retail Commerce DAta Exchange backward compatibility..." to continue to add a line.  
 
 2.  In the Level field, enter **1**.
 
@@ -266,8 +262,7 @@ will also set up mandatory components of the loyalty.
 
 2.  Select **Add line**.
 
-3.  In the AVAILABLE ORGANIZATION NODES section, select the Online store channel
-    you created in Module 8.
+3.  3.	In the AVAILABLE ORGANIZATION NODES section, select the top node “Contoso Retail”.
 
 4.  Select the right arrow to move the node to the SELECTED ORGANIZATION NODES
     section.
@@ -283,15 +278,9 @@ will also set up mandatory components of the loyalty.
 
 1.  Navigate to **Retail and Commerce \> Customers \> Loyalty \> Loyalty
     cards**.  
-      
-    
-
-
+ 
 2.  Select **New**.  
       
-    
-
-
 3.  In the Customer name field, select customer **Contoso Retail FR – 4001**.
 
 4.  Expand the Loyalty programs section.
@@ -309,9 +298,6 @@ will also set up mandatory components of the loyalty.
 10. Select **Save**.  
       
     
-
->   STOP HERE: Exercise 4 has prerequisites that we haven't done yet.
-
 
 ### Exercise 4 – Test loyalty schemes
 
@@ -332,11 +318,11 @@ will also set up mandatory components of the loyalty.
 
 1.  Select **Activate**.
 
-2.  Enter your email ID.
+2.  Enter your email ID from logon to this machine.
 
 3.  Enter your password.
 
-4.  Enter the Operator ID and password
+4.  Enter the Operator ID and password that you set up in the lab for Module 2, exercise 2, task 1, **Student** and **1234**.
 
 5.  Select **Sign in**.
 
