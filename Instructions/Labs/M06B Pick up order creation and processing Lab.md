@@ -71,7 +71,7 @@ indicate the customer has collected their item.
 
 1.  Launch the Cloud POS application.
 
-2.  Sign into the POS device using operator ID **000713** and password **123**.
+2.  Sign into the POS device using operator ID **000713** and password **123**. (Beta testers: Is this correct?)
 
 
 3.  Select **Open a new shift** when prompted.
