@@ -22,7 +22,7 @@ includes the ability to:
 
 **Time to complete**: 15 minutes
 
-**Prerequisites**: Module 2 – Lab – Configure prerequisites for online store
+**Prerequisites**: Module 2 – Lab – Configure prerequisites for store
 channel, Exercises: 1 and 2.
 
 **Objectives**: After completing this lab, students will have learnt the
