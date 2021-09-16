@@ -295,7 +295,7 @@ hierarchy business unit.
 
 In this task, you will associate an assortment with an online store.
 
-1.  Navigate to Retail and Commerce \> Catalogs and assortments.
+1.  Navigate to Retail and Commerce \> Catalogs and assortments \> Assortments.
 
 2.  In the list, Select **Adventure Works Online Stores.**
 
