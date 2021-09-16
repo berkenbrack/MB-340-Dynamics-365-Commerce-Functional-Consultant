@@ -77,7 +77,7 @@ purchase by using a check.
     to reference this number at a later stage in this lab.
 
 2.  On the Sales order header fasttab, select the Mode of delivery field and
-    enter **99**.
+    select **99** from the dropdown.
 
 3.  In the Item number field in the Sales order lines fasttab, enter **0005**.
 
