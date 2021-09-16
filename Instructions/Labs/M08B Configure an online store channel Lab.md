@@ -77,6 +77,14 @@ components for the channel.
 
 8.  In the Live channel database field, select the available Live channel
     database**.**
+	If you do not see one, follow these steps:
+	1. **Save** your channel.
+	2. Right click on the dropdown arrow by the **live channel database** field, and select **View details**.
+	3. You will be taken to the Channel database form with no records. Select **+New**.
+	4. Now an existing channel database ID will appear. **Delete* your new blank one.
+	5. Press **Save**. (You may want to copy the Channel database ID.)
+	5. Close this screen using the X near the top right under the AD user.
+	6. You now have a Live channel database.
 
 9.  In the Email notifications field, select **ENProfile**.
 
