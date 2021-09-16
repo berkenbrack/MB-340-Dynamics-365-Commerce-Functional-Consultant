@@ -74,10 +74,16 @@ Directory security group to use for site administrators.
 
 #### Task 1 – Set up an e-commerce site
 
-1.  Your instructor will provide a URL for Site builder. Enter the Site builder
-    URL.  
-      
-    
+1.  Retrieve and navigate to the Site builder
+    URL:
+
+	1. In your browser, log into lcs.dynamics.com.
+	2. Select your project.
+	3. Toward the right, under Environments, select **Full details**.
+	4. Toward the right, by Commerce, click the **Manage** link.
+	5. Select the **e-Commerce** tab.
+	6. Select the **e-Commerce site builder** link.
+	7. Copy and save the url. It will look something like: https://manage.commerce.dynamics.com/digitalselling/sites
 
 
 2.  Select the **Fabrikam** site to open the site setup dialog box.
