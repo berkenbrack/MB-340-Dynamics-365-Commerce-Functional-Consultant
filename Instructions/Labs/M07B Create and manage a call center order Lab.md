@@ -63,7 +63,7 @@ A customer named **Karen Berg** wants to purchase item **0005** over the phon
 and have the item delivered using standard shipping. Karen wants to pay for the
 purchase by using a check.
 
-1.  Launch Dynamics 365 Commerce.
+1.  Launch Dynamics 365 Commerce in **USRT**.
 
 2.  Navigate to **Retail and Commerce \> Customers \> Customer service**.
 
