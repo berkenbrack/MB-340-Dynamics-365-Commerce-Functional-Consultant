@@ -76,7 +76,7 @@ components for the channel.
 7.  In the Customer address book field, select **USRTCentrl**.
 
 8.  In the Live channel database field, select the available Live channel
-    database**.**
+    database.
 	If you do not see one, follow these steps:
 	1. **Save** your channel.
 	2. Right click on the dropdown arrow by the **live channel database** field, and select **View details**.
