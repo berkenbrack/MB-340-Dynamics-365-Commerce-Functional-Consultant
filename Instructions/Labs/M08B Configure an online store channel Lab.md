@@ -78,13 +78,27 @@ components for the channel.
 8.  In the Live channel database field, select the available Live channel
     database.
 	If you do not see one, follow these steps:
-	1. **Save** your channel.
-	2. Right click on the dropdown arrow by the **live channel database** field, and select **View details**.
-	3. You will be taken to the Channel database form with no records. Select **+New**.
-	4. Now an existing channel database ID will appear. **Delete** your new blank one.
-	5. Press **Save**. (You may want to copy the Channel database ID.)
-	5. Close this screen using the X near the top right under the AD user.
-	6. You now have a Live channel database.
+	1.  **Save** your channel.
+	
+	2.  Right click on the dropdown arrow by the **live channel database** field,
+	    and select **View details**.
+	
+	3.  You will be taken to the Channel database form. If no records are visible,
+	    select **+New. **A new record with information will appear. **Delete** your
+	    new blank one if you needed to do this step.
+	
+	4.  Select the record with live database, expand Retail channels, and
+	    select **+New .**
+	
+	5.  Add your new ecommerce channel you just created. If you do not see it, you
+	    will need to exit and save the new online channel you were creating and try
+	    again.
+	
+	6.  Press **Save**. (You may want to copy the Channel database ID.)
+	
+	7.  Close this screen using the X near the top right under the AD user.
+	
+	8.  In the new online channel, click the drop down for the live database and add the live channel database.
 
 9.  In the Email notifications field, select **ENProfile**.
 
