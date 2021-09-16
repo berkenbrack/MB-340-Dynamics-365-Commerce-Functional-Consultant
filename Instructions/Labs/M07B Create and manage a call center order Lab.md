@@ -46,9 +46,7 @@ used to sign into Commerce is assigned to a call center channel.
 5.  In the User ID field, select the student user that you used to sign in to
     Commerce.
 
-
-
-1.  Verify that the Admin user is displayed. The Admin user is linked to this
+1.  Verify that the user is displayed. The user is linked to this
     call center channel and can successfully create a Retail order in this
     channel.
 
