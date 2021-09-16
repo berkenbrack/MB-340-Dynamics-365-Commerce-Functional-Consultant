@@ -4,7 +4,8 @@ lab:
     module: 'Module 7: Configure and Work with Call Centers'
 ---
 
-
+# Module 7: Configure and Work with Call Centers
+## B. Hands-on lab: Create and manage a call center order
 
 **Why learn this?** Students will learn the steps required to create a call
 center order, how to place such an order on hold and subsequently release the
