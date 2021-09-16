@@ -50,7 +50,7 @@ components for the channel.
 
 2.  Verify that the legal entity is set to **USRT**.
 
-3.  From the Retail and Commerce menu, select **Online stores**. Alternatively,
+3.  Navigate to Retail and Commerce > Channels > Online stores. Alternatively,
     search for **Online stores** in the search box on the toolbar.  
       
     
