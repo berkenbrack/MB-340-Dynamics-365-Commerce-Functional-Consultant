@@ -32,7 +32,7 @@ Scenario: You are responsible for assigning all new call center users to call
 center channels. In this exercise you verify whether the user account that you
 used to sign into Commerce is assigned to a call center channel.
 
-1.  Launch Dynamics 365 Commerce.
+1.  Launch Dynamics 365 Commerce in company USRT.
 
 2.  Navigate to **Retail and Commerce \> Channels \> Call centers \> All call
     centers** or search for **All call centers** using the search function.
