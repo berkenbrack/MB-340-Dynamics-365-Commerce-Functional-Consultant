@@ -67,7 +67,7 @@ purchase by using a check.
 
 2.  Navigate to **Retail and Commerce \> Customers \> Customer service**.
 
-3.  In Customer service, search for **Karen**.
+3.  In Customer service, search for **Karen**. **Select** her and go to the previous form.
 
 4.  Select **New sales order**.
 
