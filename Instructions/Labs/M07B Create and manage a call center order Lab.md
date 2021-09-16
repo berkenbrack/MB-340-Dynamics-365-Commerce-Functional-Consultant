@@ -43,7 +43,7 @@ used to sign into Commerce is assigned to a call center channel.
 4.  In the newly opened form, select **New** to add a new user to the call
     center channel.
 
-5.  In the User ID field, select the Admin user that you used to sign in to
+5.  In the User ID field, select the student user that you used to sign in to
     Commerce.
 
 
