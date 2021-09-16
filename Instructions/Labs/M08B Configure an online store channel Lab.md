@@ -28,7 +28,7 @@ channel. Student will learn key components such as:
 
 8. Configure a channel to be part of the appropriate channel database
 
-**Time to complete**: ?
+**Time to complete**: 30 minutes
 
 **Prerequisites**: None
 
